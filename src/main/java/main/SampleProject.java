@@ -2,6 +2,9 @@ package main;
 
 public class SampleProject {
 	//print  Hello world! in the console
+	
+	private int num1;
+	
 	public static String printHello() {
 		//print Hello world! in the console!
 		String c = "Hello rvabddld!";
